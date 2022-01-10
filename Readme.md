@@ -13,7 +13,7 @@
 - JS
 
 ## Live Demo
-* [Demo](#)
+* [Demo](https://aeon9300.github.io/Javascript_BookList_App/)
 
 ## Loom Video Description of Project (5mins)
 * [Loom Video](#)
